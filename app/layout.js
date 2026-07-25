@@ -3,7 +3,7 @@ import Background from '@/components/Background';
 import { ThemeProvider } from '@/components/ThemeContext';
 
 export const metadata = {
-  title: 'Paweł Szostak | Full Stack Developer',
+  title: 'Nishant Yadav | Full Stack Developer',
   description: 'I help founders turn their ideas into reality',
   icons: {
     icon: '/favicon.ico',
